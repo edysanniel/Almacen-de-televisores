@@ -1,0 +1,27 @@
+Serial: 654662
+Precio: 600
+Max Canales: 30
+Forma de Pago: CREDIT
+Cantidad de LEDs: 45
+
+Serial: 826545
+Precio: 520
+Max Canales: 25
+Forma de Pago: CASH
+
+Serial: 464655
+Precio: 340
+Max Canales: 10
+Forma de Pago: CASH
+
+Serial: 314158
+Precio: 850
+Max Canales: 100
+Forma de Pago: CREDIT
+Cantidad de LEDs: 56
+
+Serial: 314516
+Precio: 700
+Max Canales: 35
+Forma de Pago: CREDIT
+
