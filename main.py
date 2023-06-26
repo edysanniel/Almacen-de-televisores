@@ -1,7 +1,6 @@
 from TV_Storage import TV_Storage
 from LED_TV import LED_TV
 from CRT_TV import CRT_TV
-import traceback
 
 
 if __name__ == "__main__":
