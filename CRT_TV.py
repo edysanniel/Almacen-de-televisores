@@ -11,7 +11,7 @@ class CRT_TV(TV):
     def getTipo(self):
         return "CRT"
 
-    def consumo(self):
+    def consumo(self):      # Consumo = 50
         return 50
 
     def print(self):

@@ -18,7 +18,7 @@ class LED_TV(TV):
     def getTipo(self):
         return "LED"
 
-    def consumo(self):
+    def consumo(self):      # Consumo = 45 - 0.5*cant_leds
         return 45 - 0.5 * self.cant_leds
 
     def __str__(self):
